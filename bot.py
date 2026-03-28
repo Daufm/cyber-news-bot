@@ -80,8 +80,8 @@ def main():
     while True:
         print("🔄 Checking for news...")
         fetch_news()
-        print("⏳ Sleeping for 1 minute...")
-        time.sleep(60)  # 1-minute interval
+        print("⏳ Sleeping for 7 minute...")
+        time.sleep(420)  # 7-minute interval
 
 if __name__ == "__main__":
     main()
