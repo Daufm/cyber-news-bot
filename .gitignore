@@ -1,0 +1,4 @@
+botvenv/
+.env
+posted.txt
+__pycache__/
